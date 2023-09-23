@@ -1,11 +1,9 @@
-# Free 
-a web site for designers
+# 🌟 Welcome to the "free-website" Project! 🌟
 
-the purpose of this web site is to advertise the free resources for designers
+👋 Hey there! I'm excited to introduce you to the "free-website" project. This project was developed as a part of my university's web development course to learn the ins and outs of creating captivating websites.
 
-Prepared by : Shvm-k
-
-`is is a simple web site made by html and css `
+## 🌐 Project Overview
+The "free-website" is a simple yet captivating web site built using HTML and CSS. Its main objective is to showcase and promote free resources for designers. Whether you're looking for courses, photos, icons, or fonts, this website has got you covered! 🎨💻
 
 ## Screenshots
 * Home page
@@ -22,3 +20,21 @@ Prepared by : Shvm-k
 
 * login page
 ![لقطة شاشة من 2021-04-01 13-34-20](https://user-images.githubusercontent.com/41121235/113282000-0560c880-92ef-11eb-91f9-dd8f6a2c7c35.png)
+
+
+## 📘 Resources
+The project provides an abundance of resources for designers, covering topics such as CSS, HTML, website development, programming, web design, HTML5, CSS3, and more. You'll find everything you need to enhance your design skills and create stunning visuals. 💪🎉
+
+## 📜 License
+The "free-website" project is licensed under the GPL-3.0 license, ensuring that it remains open and accessible to all. Feel free to explore, contribute, and make use of the resources provided in accordance with the license terms. 📝
+
+If you're interested in checking out the project, please visit the [GitHub repository](https://github.com/SaraAlhaddadi/free-website). You'll find the source code, files, and additional information about the project.
+
+Thank you for your interest, and happy designing! ✨🎨
+
+---
+
+🌟 **"free-website"** by Sara Alhaddadi  
+📚 A web site for designers  
+🔗 [GitHub Repository](https://github.com/SaraAlhaddadi/free-website)  
+📋 GPL-3.0 License
